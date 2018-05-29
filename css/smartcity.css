@@ -1,0 +1,57 @@
+body{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    background-position: center top;
+}
+.logo{
+    position: absolute;
+    left:.15rem;
+    top: .18rem;
+    width: 1.17rem;
+}
+
+.font{
+    width: 5.51rem;
+
+
+}
+.top{
+    height: 40vh;
+
+}
+.swiper-wrapper{
+    max-height: 55vh;
+    width: 100vw;
+    /*background: rgba(0,0,0,.5);*/
+}
+.swiper-slide{
+    /*width: 4.72rem;    轮播的显示个数为1个以上宽度可以不用设*/
+    border-radius: 10px;
+    background: white;
+}
+.title{
+    height:1.1rem;
+    font-size: .36rem;
+}
+
+.code{
+    width: 3.35rem;
+}
+
+.blue{
+    color: #188fe3;
+    font-size: .34rem;
+}
+.first{
+    color: #050505;
+    font-size: .34rem;
+    height: 1.56rem;
+}
+
+.gray{
+    color: #999999;
+    font-size: .3rem;
+}
+
